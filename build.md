@@ -1,5 +1,6 @@
 Music: 7.29.52  
 Reddit: 2024.17.0  
+Tiktok: 36.5.4  
 Twitter: 10.79.0-release.0  
 YouTube: 19.47.53  
 
